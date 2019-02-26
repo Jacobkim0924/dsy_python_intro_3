@@ -5,10 +5,11 @@ while True:
     if num == "done" : break
 
     try:
-        ## write your code here
+        largest = 10
+        smallest = 2
 
     except:
-        ## write your code here
-
+        if num == "done" : break
+print('Invalid input')
 print("Maximum", largest)
-## write another print statement here
+print("Minimum", smallest)
