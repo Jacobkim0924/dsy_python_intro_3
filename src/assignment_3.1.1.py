@@ -12,4 +12,4 @@ while True:
         if num == "done" : break
 print('Invalid input')
 print("Maximum", largest)
-print("Minimum", smallest)
+print("Minimum", smallest) 
